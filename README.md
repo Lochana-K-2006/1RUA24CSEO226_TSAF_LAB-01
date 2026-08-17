@@ -24,5 +24,5 @@ The residual component represents the remaining random or irregular variation in
 7. Why is the seasonal period set to 12?
 The seasonal period is set to 12 because the dataset contains monthly observations and one complete year contains 12 months. Therefore, the seasonal pattern is expected to repeat every 12 observations.
 
-5. Does the seasonal variation appear constant or does it increase as passenger numbers increase?
-→ The seasonal variation increases as the passenger numbers increase. In the later years, the difference between seasonal peaks and troughs is larger than in the earlier years. This indicates that the seasonal variation is not constant and becomes larger as the overall passenger level increases.
+8. Does the seasonal variation appear constant or does it increase as passenger numbers increase?
+The seasonal variation increases as the passenger numbers increase. In the later years, the difference between seasonal peaks and troughs is larger than in the earlier years. This indicates that the seasonal variation is not constant and becomes larger as the overall passenger level increases.
